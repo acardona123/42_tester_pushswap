@@ -17,7 +17,7 @@ Les deux scripts peuvent être utilisés indépendamment.
 
 > **Example:**
 > `bash randomizer.sh 1 10`
-> -> possible output: `1 5 10 4 2 6 7 8 3 9` 
+> -> sortie possible: `1 5 10 4 2 6 7 8 3 9` 
 
 ### Tester le coût moyen de l'algorithme
 ```bash
